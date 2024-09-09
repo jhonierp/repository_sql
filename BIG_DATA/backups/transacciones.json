@@ -1,0 +1,1 @@
+{"_id":{"$oid":"66df706e3005585b151f64f4"},"pedido_id":{"$oid":"66df6fad3005585b151f64f3"},"monto":1700,"metodo_pago":"Tarjeta de crédito","fecha_transaccion":{"$date":"2024-09-01T00:00:00Z"}}

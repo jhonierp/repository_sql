@@ -1,0 +1,1 @@
+{"_id":{"$oid":"66df6fad3005585b151f64f3"},"cliente_id":{"$oid":"66df6e363005585b151f64f0"},"productos":[{"producto_id":{"$oid":"66df6f985619b93141fc367f"},"cantidad":2,"precio_unitario":850}],"total":1700,"fecha_pedido":{"$date":"2024-09-01T00:00:00Z"},"estado":"Procesado"}

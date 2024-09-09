@@ -1,0 +1,2 @@
+{"_id":{"$oid":"66df6b093005585b151f64ed"},"nombre":"Laptop ASUS X509","categoria":"Electrónica","precio":850,"stock":50,"fecha_creacion":{"$date":"2024-09-01T00:00:00Z"}}
+{"_id":{"$oid":"66df6f985619b93141fc367f"},"nombre":"Laptop ASUS X509","categoria":"Electrónica","precio":850,"stock":50,"fecha_creacion":{"$date":"2024-09-01T00:00:00Z"}}

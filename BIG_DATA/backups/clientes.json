@@ -1,0 +1,2 @@
+{"_id":{"$oid":"66df6c1f3005585b151f64ef"}}
+{"_id":{"$oid":"66df6e363005585b151f64f0"},"nombre":"Juan Pérez","email":"juan.perez@gmail.com","direccion":"Calle 123, Ciudad","telefono":"555-1234","fecha_registro":{"$date":"2024-08-25T00:00:00Z"}}
