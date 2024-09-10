@@ -1,0 +1,18 @@
+//Total de ventas realizadas en la tienda
+
+db.pedidos.aggregate([
+   { $group: { _id: null, totalVentas: { $sum: "$total" } } }
+]);
+
+
+//buscar pedidos por un cliente en particular
+
+db.pedidos.find({ "cliente_id": ObjectId("66df6e363005585b151f64f0") });
+
+//buscar stock cerca a terminar
+
+db.productos.find({ "stock": { $lt: 10 } });
+
+//buscar un cliente por nombre
+
+db.clientes.find({"nombre":"jhonier pasos"})
