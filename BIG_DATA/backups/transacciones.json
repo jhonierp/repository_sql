@@ -1,1 +1,4 @@
-{"_id":{"$oid":"66df706e3005585b151f64f4"},"pedido_id":{"$oid":"66df6fad3005585b151f64f3"},"monto":1700,"metodo_pago":"Tarjeta de crédito","fecha_transaccion":{"$date":"2024-09-01T00:00:00Z"}}
+{"_id":{"$oid":"66df706e3005585b151f64f4"},"pedido_id":{"$oid":"66df6fad3005585b151f64f3"},"monto":1700,"metodo_pago":"Tarjeta de crédito","fecha_transaccion":{"$date":"2024-09-01T00:00:00.000Z"}}
+{"_id":{"$oid":"66df706e3005585b151f64f5"},"pedido_id":{"$oid":"66e08c3ebac30cd33b4c2a0f"},"monto":1850,"metodo_pago":"PayPal","fecha_transaccion":{"$date":"2024-09-05T00:00:00.000Z"}}
+{"_id":{"$oid":"66df706e3005585b151f64f6"},"pedido_id":{"$oid":"66e08c3ebac30cd33b4c2a10"},"monto":600,"metodo_pago":"Tarjeta de débito","fecha_transaccion":{"$date":"2024-09-03T00:00:00.000Z"}}
+{"_id":{"$oid":"66df706e3005585b151f64f7"},"pedido_id":{"$oid":"66e08c3ebac30cd33b4c2a11"},"monto":550,"metodo_pago":"Transferencia bancaria","fecha_transaccion":{"$date":"2024-09-04T00:00:00.000Z"}}

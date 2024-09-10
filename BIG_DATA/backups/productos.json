@@ -1,2 +1,7 @@
 {"_id":{"$oid":"66df6b093005585b151f64ed"},"nombre":"Laptop ASUS X509","categoria":"Electrónica","precio":850,"stock":50,"fecha_creacion":{"$date":"2024-09-01T00:00:00Z"}}
-{"_id":{"$oid":"66df6f985619b93141fc367f"},"nombre":"Laptop ASUS X509","categoria":"Electrónica","precio":850,"stock":50,"fecha_creacion":{"$date":"2024-09-01T00:00:00Z"}}
+{"_id":{"$oid":"66df6f985619b93141fc367f"},"nombre":"Mac book","categoria":"Electrónica","precio":23233,"stock":8,"fecha_creacion":{"$date":"2024-09-01T00:00:00Z"}}
+{"_id":{"$oid":"66e08c94bac30cd33b4c2a12"},"nombre":"Laptop ASUS X509","categoria":"Electrónica","precio":850,"stock":50,"fecha_creacion":{"$date":"2024-09-01T00:00:00.000Z"}}
+{"_id":{"$oid":"66e08c94bac30cd33b4c2a13"},"nombre":"Smartphone Samsung Galaxy S21","categoria":"Electrónica","precio":1000,"stock":30,"fecha_creacion":{"$date":"2024-09-02T00:00:00.000Z"}}
+{"_id":{"$oid":"66e08c94bac30cd33b4c2a14"},"nombre":"Auriculares Sony WH-1000XM4","categoria":"Accesorios","precio":300,"stock":100,"fecha_creacion":{"$date":"2024-08-30T00:00:00.000Z"}}
+{"_id":{"$oid":"66e08c94bac30cd33b4c2a15"},"nombre":"Teclado Mecánico Logitech G Pro","categoria":"Accesorios","precio":150,"stock":200,"fecha_creacion":{"$date":"2024-08-29T00:00:00.000Z"}}
+{"_id":{"$oid":"66e08c94bac30cd33b4c2a16"},"nombre":"Monitor Dell 24 pulgadas","categoria":"Electrónica","precio":400,"stock":60,"fecha_creacion":{"$date":"2024-09-03T00:00:00.000Z"}}
