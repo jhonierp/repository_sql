@@ -1,0 +1,7 @@
+{"_id":{"$oid":"670fea771877d39f92072f8a"},"estudiante_id":1,"clase_id":1,"fecha_matricula":"2024-01-15"}
+{"_id":{"$oid":"670feb1633a0a5d231072f8d"},"estudiante_id":1,"clase_id":2,"fecha_matricula":"2024-01-20"}
+{"_id":{"$oid":"670feb1633a0a5d231072f8e"},"estudiante_id":1,"clase_id":4,"fecha_matricula":"2024-01-21"}
+{"_id":{"$oid":"670feb1633a0a5d231072f8f"},"estudiante_id":2,"clase_id":3,"fecha_matricula":"2024-01-22"}
+{"_id":{"$oid":"670feb1633a0a5d231072f90"},"estudiante_id":2,"clase_id":1,"fecha_matricula":"2024-01-23"}
+{"_id":{"$oid":"670feb1633a0a5d231072f92"},"estudiante_id":4,"clase_id":2,"fecha_matricula":"2024-01-25"}
+{"_id":{"$oid":"67111835888165ac4d072f8a"},"estudiante_id":3,"clase_id":2,"fecha_matricula":"2024-02-10"}

@@ -1,0 +1,5 @@
+{"_id":1,"nombre":"Juan","apellido1":"Pérez","apellido2":"González","edad":15,"telefono":["12345678","87654321"],"direccion":"Calle sdsd 123","email":"juan.perez@escuela.com"}
+{"_id":{"$oid":"670fe97e33a0a5d231072f8c"},"nombre":"Ana","apellido1":"Sánchez","apellido2":"Lopez","edad":13,"telefono":["98765432"],"direccion":"Calle Verdad 456","email":"ana.sanchez@escuela.com"}
+{"_id":2,"nombre":"Ana","apellido1":"Sánchez","apellido2":"Lopez","edad":16,"telefono":["98765432"],"direccion":"Calle Verdad 456","email":"ana.sanchez@escuela.com"}
+{"_id":3,"nombre":"Luis","apellido1":"Martínez","apellido2":"Pérez","edad":17,"telefono":["98761234"],"direccion":"Avenida Principal 789","email":"luis.martinez@escuela.com"}
+{"_id":4,"nombre":"Clara","apellido1":"Fernández","apellido2":"García","edad":17,"telefono":["98764321"],"direccion":"Plaza Mayor 123","email":"clara.fernandez@escuela.com"}

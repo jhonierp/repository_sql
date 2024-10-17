@@ -1,0 +1,3 @@
+{"_id":1,"nombre":"Pedro","apellido1":"García","apellido2":"López","telefono":["98765431"],"email":"pedro.garcia@escuela.com","rol":"rector","contraseña":"jasjdadhc"}
+{"_id":2,"nombre":"Elena","apellido1":"Martínez","apellido2":"Pérez","telefono":["98765432"],"email":"elena.martinez@escuela.com","rol":"director_academico","contraseña":"jasjdadhc"}
+{"_id":3,"nombre":"Sofía","apellido1":"Rodríguez","apellido2":"Fernández","telefono":["98765433"],"email":"sofia.rodriguez@escuela.com","rol":"administrador_sistema","contraseña":"jasjdadhc"}
